@@ -9,7 +9,7 @@ This repository contains Python scripts and Jupyter notebooks that download astr
 | NOIRLab Source Catalog [NSC] (DR2) | NSC_DR2 | @moeyensj |
 | Panoramic Survey Telescope and Rapid Response System [PanSTARRS] (DR2) | PS1_DR2 | |
 | SkyMapper Southern Sky Survey (DR2) | SKYMAPPER_DR2 | |
-| Sloan Digital Sky Survery (DR9) | SDSS_DR9 | | 
+| Sloan Digital Sky Survey (DR9) | SDSS_DR9 | | 
 | Southern Photometric Local Universe Survey [S-PLUS] | SPLUS | |
 | Zwicky Transient Facility [ZTF] (DR12)| ZTF_DR12 | |
 
